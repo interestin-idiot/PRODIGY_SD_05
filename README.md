@@ -1,4 +1,4 @@
-# Software Development Intern At Prodify Infotech 
+# Software Development Intern At Prodigy Infotech 
 ## Task 5 : Web Scraping
 
 Create a program that extracts product information, such as names, prices, and ratings, from an online e-commerce website and stores the data in a structured format like a CSV file.
